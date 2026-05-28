@@ -532,3 +532,4 @@ document.addEventListener('keydown', function(e) {
 </script>
 
 <?php include 'footer.php'; ?>
+// Added by: Estelle Marie Cabulisan
