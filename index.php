@@ -1,5 +1,6 @@
 <?php
-// Reviewed by Alunan
+// Reviewed by Chardin Ardrei M. Alunan
+// Final verification by Chadin Ardrei M. Alunan
 // index.php - Login Page
 // Concepts:
 //   - $credentials  : global array holding valid username/password
