@@ -1,5 +1,5 @@
 
-
+-- SQL schema checked by Liatin Locsin
 -- Users table (login + profile)
 CREATE TABLE IF NOT EXISTS users (
     id         INT AUTO_INCREMENT PRIMARY KEY,
