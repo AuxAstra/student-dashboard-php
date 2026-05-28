@@ -1,4 +1,5 @@
 <?php
+// Reviewed by Alunan
 // index.php - Login Page
 // Concepts:
 //   - $credentials  : global array holding valid username/password
